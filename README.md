@@ -1,7 +1,5 @@
 # SeleniumQA
 
-# SeleniumQA
-
 ## Açıklama
 SeleniumQA, Selenium kullanarak web uygulama testlerini otomatikleştirmek için geliştirilmiş bir projedir.
 

@@ -13,11 +13,11 @@ public class NavigateMethods {
         driver.navigate().to("https://www.amazon.com/");
         driver.get("https://www.amazon.com/");
 
-        // 2. Youtube sayfasina gidelim. https://www.youtube.com/
+        // 2. YouTube sayfasina git. https://www.youtube.com/
         //driver.navigate().to("https://www.youtube.com/");
         //driver.get("https://www.youtube.com/");
 
-        // 3. Tekrar Amazon sayfasina donelim
+        // 3. Tekrar Amazon sayfasına dön
         driver.navigate().back();
 
         // 4. Yeniden Youtube sayfasina gidelim

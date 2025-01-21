@@ -1,10 +1,12 @@
 # SeleniumQA
 
 ## Açıklama
-SeleniumQA, Selenium kullanarak web uygulama testlerini otomatikleştirmek için geliştirilmiş bir projedir.
+SeleniumQA, Selenium kullanarak web uygulama testlerini pekiştirmek için yazılmış ders niteliğinde bir projedir...
 
 ## Kurulum
 1. Depoyu klonlayın:
+
+
    ```sh
    git clone https://github.com/devsmi16/SeleniumQA.git
 
